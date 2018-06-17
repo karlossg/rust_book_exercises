@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "hello_cargo"
+		},
+		{
+			"path": "hello_world"
+		},
+		{
+			"path": "guessing_game"
+		}
+	],
+	"settings": {
+		"rust-client.rls-name": "rls-preview"
+	}
+}

@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "variables"
+		},
+		{
+			"path": "data_types"
 		}
 	],
 	"settings": {

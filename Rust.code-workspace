@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "loops"
+		},
+		{
+			"path": "fahrenheit_to_celcius"
 		}
 	],
 	"settings": {
